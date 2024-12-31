@@ -1,4 +1,4 @@
-# FearTools
+# F.E.A.R Tools
 
 Modern GUI toolkit for extracting and converting F.E.A.R. game files (ARCH, BNDL, SND, TEX, dsPack). Supports F.E.A.R. 1, 2, and 3 with batch processing capabilities and a dark-themed interface. Python port of Crypton's original Delphi tools for F.E.A.R 1 + 2.
 
