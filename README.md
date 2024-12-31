@@ -118,21 +118,10 @@ python dsPACKExtractor.py <dspack_file> [output_directory]
 - Supports various file formats and structures
 - Efficient binary file handling
 - Robust error handling and validation
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+  
 ## Acknowledgments
 
 - Original game files and formats by Monolith Productions
 - Original tools and research by Crypton and Watto
 - Python port and GUI implementation by the FearTools team
 
-## Support
-
-For issues, questions, or suggestions, please [open an issue](https://github.com/yourusername/FearTools/issues) on GitHub. 
