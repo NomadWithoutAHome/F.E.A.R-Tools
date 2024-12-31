@@ -6,7 +6,7 @@ A comprehensive suite of tools for handling various file formats used in the F.E
 
 ## Supported Games
 
-- F.E.A.R. (First Encounter Assault Recon)
+- F.E.A.R.
 - F.E.A.R. 2: Project Origin
 - F.E.A.R. 3
 
