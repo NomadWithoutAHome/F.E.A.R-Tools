@@ -16,11 +16,11 @@ A comprehensive suite of tools for handling various file formats used in the F.E
 
 ## Features
 
-- **ARCH Extractor**: Extract files from `.arch00` and `.arch01` archives (F.E.A.R. 1)
-- **BNDL Extractor**: Extract files from `.bndl` archives (F.E.A.R. 2)
-- **SND Converter**: Convert `.snd` files to `.wav` format (All F.E.A.R. games)
-- **TEX Converter**: Convert between `.tex` and `.dds` formats (All F.E.A.R. games)
-- **dsPack Extractor**: Extract files from `.dsPack` archives with compression support (F.E.A.R. 3)
+- **ARCH Extractor**: Extract files from `.arch00` and `.arch01` archives
+- **BNDL Extractor**: Extract files from `.bndl` archives 
+- **SND Converter**: Convert `.snd` files to `.wav` format
+- **TEX Converter**: Convert between `.tex` and `.dds` formats
+- **dsPack Extractor**: Extract files from `.dsPack` archives with compression support (F.E.A.R. 3 Experimental)
 
 ## Installation
 
@@ -66,7 +66,7 @@ python TexConverter.py -dds <input_file> [output_directory]
 python TexConverter.py -batch -tex/-dds <input_directory> [output_directory]
 ```
 
-### dsPack Extractor
+### dsPack Extractor (F.E.A.R. 3 Experimental)
 ```bash
 python dsPACKExtractor.py <dspack_file> [output_directory]
 ```
