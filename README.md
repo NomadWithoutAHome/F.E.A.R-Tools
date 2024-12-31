@@ -10,7 +10,9 @@ A comprehensive suite of tools for handling various file formats used in the F.E
 - F.E.A.R. 2: Project Origin
 - F.E.A.R. 3
 
-![FearTools GUI](screenshots/gui.png) *(Screenshot to be added)*
+## Screenshot
+
+![alt text](https://i.imgur.com/SjIARxU.gif)
 
 ## Features
 
